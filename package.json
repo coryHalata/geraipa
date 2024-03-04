@@ -1,0 +1,27 @@
+{
+  "name": "geraipa",
+  "version": "1.0.0",
+  "description": "A simple Geraipa module for greeting",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coryHalata/geraipa.git"
+  },
+  "author": "coryHalata",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geraipa",
+    "greeting"
+  ],
+  "bugs": {
+    "url": "https://github.com/coryHalata/geraipa/issues"
+  },
+  "homepage": "https://github.com/coryHalata/geraipa#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
